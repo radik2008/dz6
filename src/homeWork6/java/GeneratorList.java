@@ -10,5 +10,4 @@ public class GeneratorList {
         }
         return res;
     }
-
 }

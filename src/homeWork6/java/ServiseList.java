@@ -22,5 +22,4 @@ public class ServiseList {
             return "Средние значения равны";
         }
     }
-
 }

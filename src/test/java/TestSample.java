@@ -47,6 +47,7 @@ public class TestSample {
         assertEquals("Второй список имеет большее среднее значение", result);
     }
 
+
     @Test
     void testGenerate() {
         List<Integer> list = generatorList.generate(55);
